@@ -1,0 +1,17 @@
+1800
+20
+3
+-1
+-0.5
+
+
+
+
+
+
+Line number	Value
+1		Session length / seconds
+2		No. of questions per session
+3		Score to be added for a correct answer
+4		Score to be deducted for a wrong answer
+5		Penalty for not attempting a question
