@@ -5,7 +5,7 @@ Console-based study app.
 1. Download this repo using the button at the top-right.
 2. Unzip it and run `pyjob.py` (preferably from the command-line).
 
-Default settings are described in `manifest.txt`, and you may change them yourself.
+Default settings are described in `manifest.txt`, and you may change them yourself. The module itself is located in `timer.py`.
 
 # Answering questions
 Input "c" to mark a question as correct, "w" to mark it wrong, and "u" to mark it unattempted.
